@@ -173,6 +173,7 @@ p.copyright {
   border-radius: 50%;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
-  background-image: url(banner-bg.jpg);
+  /*background-image: url(banner-bg.jpg);*/
+  background-image: url(http://3.bp.blogspot.com/-MWG2aIar82o/TmQ2HWrM9KI/AAAAAAAAAa8/5l5kulgigeo/s640/neymar8.jpg);
   background-size: cover;
 }
